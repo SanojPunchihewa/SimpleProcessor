@@ -1,3 +1,5 @@
+// Author : Sanoj Punchihewa
+
 module testbed;
 
 	// == TESTBED FOR 2's COMPLIMENT ==
